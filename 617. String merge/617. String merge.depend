@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650037434 source:d:\spoj\617. string merge\main.cpp
+	<iostream>
+	<cstring>
+
